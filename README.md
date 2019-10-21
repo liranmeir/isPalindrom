@@ -1,2 +1,0 @@
-# isPalindrom
-Created with CodeSandbox
