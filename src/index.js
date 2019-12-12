@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
 import "./styles.css";
-
+//TEST
 function isPalindrom(str) {
   var re = /[\W_]/g;
 
